@@ -1,2 +1,1 @@
-# C_practice
-# C_practice
+這是我平常練習的東西，資料結構跟C語言為主
